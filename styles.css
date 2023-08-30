@@ -1,0 +1,68 @@
+.headerMenu{
+display: flex;
+justify-content: flex-end;
+color: #074391;
+
+}
+
+.headerBtn1{
+    margin-right: 50px;
+}
+
+.headerBtn2{
+    margin-right: 20px;
+}
+.imgBox{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.img1{
+
+    width: 286px;
+    height: 120px;
+    border-style: solid;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    background-image: url("anya.jpg");
+    background-position: center;
+    background-size: 99% auto;
+    transition: transform 0.3s ease-in-out;
+
+}
+.img1:hover{
+    transform: scale(1.1);
+}
+
+.img2{
+    width: 286px;
+    height: 120px;
+    border-style: solid;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    background-image: url("anya.jpg");
+    background-position: center;
+    background-size: 99% auto;
+    transition: transform 0.3s ease-in-out;
+}
+.img2:hover{
+    transform: scale(1.1);
+}
+.img3{
+    width: 286px;
+    height: 120px;
+    border-style: solid;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    background-image: url("anya.jpg");
+    background-position: center;
+    background-size: 99% auto;
+    transition: transform 0.3s ease-in-out;
+
+}
+.img3:hover{
+    transform: scale(1.1);
+}
